@@ -366,7 +366,7 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.12rem;
+  font-size: 0.9rem;
   font-weight: 300
 }
 
@@ -3936,7 +3936,7 @@ tbody.collapse.show {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 1.5rem 1rem
+  padding: 0.5rem 1rem
 }
 
 .navbar > .container, .navbar > .container-fluid {
@@ -9124,7 +9124,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .navbar {
-  font-size: 1.2rem;
+  font-size: 0.9rem;
   text-transform: uppercase;
   font-weight: 600
 }
