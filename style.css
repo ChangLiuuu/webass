@@ -8,8 +8,8 @@
 
 /* ------- content img video ------- */
 .sec-media {
-  height: auto;
-  background-color: #0d0d0d;
+  overflow: auto;
+  background-color: #000000;
 }
 
 .contain-2 {
@@ -17,9 +17,6 @@
   width: 50%;
 }
 
-.clear {
-  clear: both;
-}
 
 img {
   width: 100%;
